@@ -2,11 +2,8 @@
 authors:
 - admin
 bio: 
-education:
-  courses:
-  - course: PhD in Neuroimaging
-    institution: German Primate Center
-    year: May 2017 - Sep 2021
+accomplishments:
+  - accomplishment: 
   - course: MSc in Neuroscience
     institution: University of Göttingen
     year: Sep 2015 - Apr 2017
@@ -22,10 +19,10 @@ name: Konstantinos Emmanouilidis
 
 social:
 - icon: email
-  icon_pack: fab
+  icon_pack: email
   link: emmanouilidis.kons@gmail.com
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: linkedin
   link: https://linkedin/in/emmanouilidisk
 - icon: github
   icon_pack: fab
