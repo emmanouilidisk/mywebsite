@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: medical doctor turned neuroscientist and image analyst.
+bio: PhD Student CS
 education:
   courses:
   - course: PhD in Neuroimaging
@@ -13,7 +13,7 @@ education:
   - course: Medical Degree
     institution: Aristotle University of Thessaloniki
     year: Sep 2009 - Jul 2015
-email: "n.sirmpilatze@ucl.ac.uk"
+email: "emmanouilidis.kons@gmail.com"
 interests:
 - Neuroscience
 - Neuroimaging
@@ -45,7 +45,7 @@ user_groups:
 - Visitors
 ---
 
-I'm Niko, a medical doctor turned neuroscientist and image analyst. Since October 2022, I work as a Research Software Engineer at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
+I'm Kostas, a medical doctor turned neuroscientist and image analyst. Since October 2022, I work as a Research Software Engineer at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
 
 I completed my PhD at the [Functional Imaging Lab](https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html) of the [German Primate Center](https://www.dpz.eu), where I studied the effects of anesthesia on brain function using neuroimaging techniques, including functional Magnetic Resonance Imaging (fMRI) and in vivo 2‐photon calcium imaging.
 
