@@ -2,5 +2,5 @@
 # MyWebsite
 This is the repo for the implementation of my site.
 
-Special thanks to [Niko Sirmpilatze](https://www.nikosirmpilatze.com/) for this website , as he owns the vast majority of the code.  
+Special thanks to [Niko Sirmpilatze](https://www.nikosirmpilatze.com/) for this website, as he owns the vast majority of the code.  
 It is built with [hugo-academic](https://github.com/gcushen/hugo-academic) and dynamically deployed from this repository with [netlify](https://www.netlify.com/).
