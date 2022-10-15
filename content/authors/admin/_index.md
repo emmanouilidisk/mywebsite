@@ -18,7 +18,7 @@ social:
 - icon: linkedin
   icon_pack: linkedin
   link: https://linkedin/in/emmanouilidisk
-- icon: github
+- icon: fab
   icon_pack: fab
   link: https://github.com/emmanouilidisk
 superuser: true
