@@ -18,10 +18,11 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
+<!-- [[item]]
 organization = "IEEEXtreme 13.0 Collegiate Programming Competition"
 title = " top 10% worldwide"
 date_start = "2019-09"
+
 [[item]]
   organization = "International Mathematical Competition (IMC)"
   organization_url = ""
@@ -46,7 +47,7 @@ date_start = "2019-09"
   url = ""
   certificate_url = ""
   date_start = "2018-03"
-  description = ""
+  description = "" -->
   
 
   
