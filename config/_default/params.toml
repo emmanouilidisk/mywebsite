@@ -3,23 +3,22 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `rose`, `strawberry`, `mr_robot`.
-color_theme = "mr_robot"
+color_theme = "default"
 # Enable users to switch be tween day and night mode?
 day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font = "mr_robot"
-font_size = "l"
+font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Emmanouilidis"
+description = ""
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "icon-512.png"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = ""
+twitter = "niksirbi"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -59,7 +58,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "emmanouilidis.kons@gmail.com"
+email = "nsirmpilatze@dpz.eu"
 phone = ""
 address = ""
 

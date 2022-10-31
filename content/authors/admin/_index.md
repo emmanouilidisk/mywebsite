@@ -1,37 +1,53 @@
 ---
 authors:
 - admin
-bio: 
-accomplishments:
-  - accomplishment: International Mathematics Competition
-email: "emmanouilidis.kons@gmail.com"
+bio: medical doctor turned neuroscientist and image analyst.
+education:
+  courses:
+  - course: PhD in Neuroimaging
+    institution: German Primate Center
+    year: May 2017 - Sep 2021
+  - course: MSc in Neuroscience
+    institution: University of Göttingen
+    year: Sep 2015 - Apr 2017
+  - course: Medical Degree
+    institution: Aristotle University of Thessaloniki
+    year: Sep 2009 - Jul 2015
+email: "n.sirmpilatze@ucl.ac.uk"
 interests:
-- Theoretical Computer Science
-- Large Scale Optimization
-- Machine Learning
-name: Konstantinos Emmanouilidis
-
+- Neuroscience
+- Neuroimaging
+- Anesthesia
+- Open science
+- Software
+name: Nikoloz Sirmpilatze
+organizations:
+- name: Sainsbury Wellcome Centre
+  url: "https://www.sainsburywellcome.org/web/"
+- name: Gatsby Computational Neuroscience Unit
+  url: "https://www.ucl.ac.uk/gatsby/"
+- name: University College London (UCL)
+  url: "https://www.ucl.ac.uk/"
+role: Research Software Engineer
 social:
-- icon: email
-  icon_pack: email
-  link: emmanouilidis.kons@gmail.com
-- icon: linkedin
-  icon_pack: linkedin
-  link: https://linkedin/in/emmanouilidisk
-- icon: fab
+- icon: twitter
   icon_pack: fab
-  link: https://github.com/emmanouilidisk
+  link: https://twitter.com/niksirbi
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=vGwoc7oAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/niksirbi
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-I am a 1st-year Ph.D. student at the Department of Computer Science of Johns Hopkins University (JHU) advised by Professor [Nicolas Loizou](nicolasloizou.github.io) and [Rene Vidal](http://vision.jhu.edu/rvidal.html) .
+I'm Niko, a medical doctor turned neuroscientist and image analyst. Since October 2022, I work as a Research Software Engineer at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
 
-My research interests lie in the intersection of theoretical computer science with machine learning and optimization, focusing on providing algorithms with theoretical guarantees for the large-scale machine learning regime.
+I completed my PhD at the [Functional Imaging Lab](https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html) of the [German Primate Center](https://www.dpz.eu), where I studied the effects of anesthesia on brain function using neuroimaging techniques, including functional Magnetic Resonance Imaging (fMRI) and in vivo 2‐photon calcium imaging.
 
-Before coming to the States, I worked with Professor [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/) and [Pavlos Efraimidis](https://euclid.ee.duth.gr/) on the field of opinion dynamics. I got my joint BSc - MSc from Democritus University of Thrace (DUTh).
-
-
+I care about promoting open, collaborative, and reproducible science. In my free time, you will find me dancing to swing music and trying to play the saxophone.
 
