@@ -39,5 +39,5 @@ being co-advised by Professor Nicolas Loizou and Professor Rene Vidal. I am inte
 
 Prior, I worked with Professor [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/) and Professor [Pavlos Efraimidis](https://euclid.ee.duth.gr/) on the intersection of theoretical computer science and the field of opinion dynamics. I recieved a joint BSc - MSc in Electrical and Computer Engineering from Greece.   
 
-You can find my CV [here](static/files/cv.pdf).
+You can find my [CV](static/files/cv.pdf).
 
