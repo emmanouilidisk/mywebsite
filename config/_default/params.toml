@@ -7,10 +7,16 @@ color_theme = "default"
 # Enable users to switch be tween day and night mode?
 day_night = true
 
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: M
+  
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
 font = "classic"
-font_size = "s"
+#font_size = "s"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
