@@ -15,7 +15,7 @@ appearance:
   
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font = "classic"
+#font = "classic"
 #font_size = "s"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
